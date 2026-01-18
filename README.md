@@ -1,6 +1,10 @@
 # TreeWriter
 
 TreeWriter 是一个层次化长文本生成系统，通过将复杂的写作任务分解为可管理的子任务，使用树结构组织，然后通过三阶段流程生成高质量的长文本内容。
+本项目核心算法已发表于《计算机科学与探索》：
+
+📖 **[TreeWriter：通过递归式任务分解实现任意长度文本生成](https://d.wanfangdata.com.cn/periodical/jsjkxyts20260104002)**
+
 
 ## 特性
 
@@ -235,6 +239,4 @@ tests/
 
 MIT License
 
-## 致谢
 
-基于 MindSearch 项目的长文本生成研究。
